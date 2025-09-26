@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import gptlogo from "./assets/chatgpt.svg"
 import addbtn from "./assets/add-30.png"
