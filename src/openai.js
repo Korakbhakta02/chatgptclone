@@ -1,6 +1,6 @@
 const { OpenAI }=require('openai')
 const openai= new OpenAI({
-    apiKey: "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", dangerouslyAllowBrowser: true
+    apiKey: "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", dangerouslyAllowBrowser: true
 })
 
 export async function sendmsgtoopenai(message){
