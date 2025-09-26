@@ -1,4 +1,4 @@
-const { Configuration, OpenAI }=require('openai')
+const { OpenAI }=require('openai')
 const openai= new OpenAI({
     apiKey: "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", dangerouslyAllowBrowser: true
 })
